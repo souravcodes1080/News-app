@@ -8,6 +8,7 @@
 5. Well structed components created.
 6. Used loading animation to make UI more user friendly.
 7. Used DateFormat library to make news date more readable.
+8. Used media queries to make UI responsive across all devices.
 
 ### How to Setup?
 - Download the repositiory
