@@ -1,0 +1,15 @@
+header {
+  color: white;
+  position: sticky;
+  top: 0;
+  font-size: 20px;
+  background-color: rgb(46, 46, 46);
+  z-index: 1;
+}
+header h1 {
+  background: rgb(46, 46, 46);
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
