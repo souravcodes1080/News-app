@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./components/Navbar/Navbar";
 import MainSection from "./components/MainSection/MainSection";
 import Footer from "./components/Footer/Footer";
-import './app.css'
+import './App.css'
 function App() {
   return (
     <>
